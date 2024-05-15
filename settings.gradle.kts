@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "miNuevaApp"
+rootProject.name = "ProyectoInnova"
 include(":app")
+ 
